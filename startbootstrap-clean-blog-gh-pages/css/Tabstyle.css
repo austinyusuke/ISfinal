@@ -1,0 +1,51 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22x;
+    color: #1d6086 ; 
+    background-image: url(../assets/img/abstract-blur-empty-green-gradient-studio-well-use-as-background-website-template-frame-business-report_1258-52616\ \(1\).avif);
+}
+
+.center{
+    text-align: center;
+    border: 3px solid rgb(222, 150, 41);
+    padding: 15px;
+}
+
+h2{
+    font-size: 25px;
+	color: rgb(111, 139, 212)
+}
+
+li{
+    font-size: 20px;
+    font-style: bold;
+    font-weight: normal;
+}
+
+a{
+    color: rgb(223, 150, 41);
+    text-decoration: none; 
+}
+
+a:hover {
+    font-weight: bold;
+    text-decoration: underline;
+}
+a:visited{
+    color: rgb(222, 152, 62);
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.footer{
+    bottom: 5px;
+    height: 10px;
+    left: 5px;
+    right: 5px;
+    font-size: 8px;
+    color: #000000;
+    text-align: center;
+    position: fixed
+}
